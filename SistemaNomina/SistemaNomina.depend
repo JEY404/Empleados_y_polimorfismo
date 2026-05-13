@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1778640216 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\main.cpp
+	"nomina.h"
+	"seniordev.h"
+	"juniordev.h"
+	"tester.h"
+	"liderestecnicos.h"
+	<string>
+	<iostream>
+
+1778639584 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\src\nomina.cpp
+	"nomina.h"
+	"juniordev.h"
+	"seniordev.h"
+	"tester.h"
+	"liderestecnicos.h"
+	<iostream>
+
+1778639446 c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\include\nomina.h
+	<vector>
+	"empleado.h"
+
+1778597706 c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\include\empleado.h
+	<string>
+
+1778636429 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\src\juniordev.cpp
+	"juniordev.h"
+	<string>
+	"empleado.h"
+
+1778597636 c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\include\juniordev.h
+	"empleado.h"
+	<string>
+
+1778636957 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\src\liderestecnicos.cpp
+	"liderestecnicos.h"
+	<string>
+	"empleado.h"
+
+1778597649 c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\include\liderestecnicos.h
+	"empleado.h"
+	<string>
+
+1778637019 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\src\seniordev.cpp
+	"seniordev.h"
+	<string>
+	"empleado.h"
+
+1778597640 c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\include\seniordev.h
+	"empleado.h"
+	<string>
+
+1778637020 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\src\tester.cpp
+	"tester.h"
+	<string>
+	"empleado.h"
+
+1778597645 c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\include\tester.h
+	"empleado.h"
+	<string>
+
+1778636841 source:c:\users\jjfmf\desktop\javeriana\semestre 2\poo\poo\parcial2\sistemanomina\src\empleado.cpp
+	"empleado.h"
+	<string>
+	<iostream>
+

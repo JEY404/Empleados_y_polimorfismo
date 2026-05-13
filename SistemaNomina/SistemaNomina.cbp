@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SistemaNomina" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SistemaNomina" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SistemaNomina" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/empleado.h" />
+		<Unit filename="include/juniordev.h" />
+		<Unit filename="include/liderestecnicos.h" />
+		<Unit filename="include/nomina.h" />
+		<Unit filename="include/seniordev.h" />
+		<Unit filename="include/tester.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/empleado.cpp" />
+		<Unit filename="src/juniordev.cpp" />
+		<Unit filename="src/liderestecnicos.cpp" />
+		<Unit filename="src/nomina.cpp" />
+		<Unit filename="src/seniordev.cpp" />
+		<Unit filename="src/tester.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
